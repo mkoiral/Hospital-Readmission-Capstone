@@ -45,13 +45,11 @@ The dataset includes:
 ```
 capstone-readmission-project/
 │
-├── data_wrangling.ipynb
-├── eda.ipynb
-├── feature_engineering.ipynb
-├── modeling.ipynb
-├── model_metrics.csv
-├── capstone_report.docx
-├── presentation.pptx
+├── Capstone3_Preprocessing_Modeling_Readmission_final.ipynb
+├── project_proposal.pdf
+├── capstone3_metrics.csv
+├── hospital_readmission_capstone_final_report.pdf
+├── hospital_readmission_capstone_final_presentation.pptx
 └── README.md
 ```
 
