@@ -79,7 +79,7 @@ This model helps hospitals:
 - Capstone3_Preprocessing_Modeling_Readmission_final.ipynb  
 - capstone3_metrics.csv
 - project_proposal.pdf  
-- hospital_readmission_capstone_report.docx
+- hospital_readmission_capstone_final_report.pdf
 - hospital_readmission_capstone_presentation.pptx
 - README.md  
 
