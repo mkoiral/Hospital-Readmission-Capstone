@@ -1,4 +1,0 @@
-model,accuracy,recall
-Logistic Regression,0.75,0.7
-Decision Tree,0.8,0.78
-Random Forest,0.85,0.82
